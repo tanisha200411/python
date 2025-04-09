@@ -1,0 +1,43 @@
+ # Naruto Dialogues: Japanese Originals with Translation
+
+     Naruto Uzumaki (うずまきナルト)
+    Japanese:
+    「俺がなるってばよ！火影に！」
+    Romaji:
+    Ore ga naruttebayo! Hokage ni!
+    English:
+    "I'm gonna become Hokage, believe it!"
+
+     Itachi Uchiha (うちはイタチ)
+    Japanese:
+    「許せサスケ、これで最後だ。」
+    Romaji:
+    Yuruse Sasuke, kore de saigo da.
+    English:
+    "Forgive me, Sasuke. This is the last time."
+
+     Kakashi Hatake (はたけカカシ)
+    Japanese:
+    「仲間を大切にしないやつはクズだ。」
+    Romaji:
+    Nakama wo taisetsu ni shinai yatsu wa kuzu da.
+    English:
+    "Those who don’t care about their comrades are worse than scum."
+
+     Pain / Nagato (ペイン / 長門)
+    Japanese:
+    「痛みを知らなければ、人は他人を理解できない。」
+    Romaji:
+    Itami wo shiranakereba, hito wa tanin wo rikai dekinai.
+    English:
+    "Those who do not understand pain can never truly understand others."
+     Jiraiya (自来也)
+
+    Japanese:
+    「人は死ぬが、死に様は永遠に残る。」
+    Romaji:
+    Hito wa shinu ga, shinisama wa eien ni nokoru.
+    English:
+    "People die, but how they live and die remains in the hearts of others forever."
+
+
