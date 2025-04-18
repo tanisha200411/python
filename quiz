@@ -1,0 +1,44 @@
+
+quiz = [
+    {
+        "question": "What is the capital of France?",
+        "choices": ["A. Berlin", "B. Madrid", "C. Paris", "D. Rome"],
+        "answer": "C"
+    },
+    {
+        "question": "Which language is used to develop Android Apps?",
+        "choices": ["A. Python", "B. Java", "C. Swift", "D. C++"],
+        "answer": "B"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "choices": ["A. Hyper Trainer Marking Language", "B. Hyper Text Marketing Language", "C. Hyper Text Markup Language", "D. Hyper Tool Multi Language"],
+        "answer": "C"
+    }
+]
+
+score = 0
+
+for q in quiz:
+    print("\n" + q["question"])
+    for choice in q["choices"]:
+        print(choice)
+    
+    user_answer = input("Your answer (A/B/C/D): ").strip().upper()
+    
+    if user_answer == q["answer"]:
+        print(" Correct!")
+        score += 1
+    else:
+        print(f" Wrong! The correct answer is {q['answer']}")
+    
+# totel score
+print("\n Quiz Completed!")
+print(f"Your final score is: {score}/{len(quiz)}")
+
+if score == len(quiz):
+    print(" Excellent!")
+elif score >= len(quiz) // 2:
+    print(" Good job!")
+else:
+    print(" Keep practicing!")
